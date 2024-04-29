@@ -6,6 +6,8 @@ The `Node` class represents each element in the linked list:
 ![image](https://github.com/jels7/Assignment-3/assets/146127905/d1366e06-f9d5-495e-b536-d9bb8cfbdb56)
 
 
+
+
 - `data`: The value of the node.
 - `next`: A pointer to the next node in the list.
 
