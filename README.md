@@ -1,8 +1,11 @@
 
 This project is a simple implementation of a Queue data structure in C++. The Queue is implemented using a linked list.
 
-
 The `Node` class represents each element in the linked list:
+
+
+
+
 ![image](https://github.com/jels7/Assignment-3/assets/146127905/d1366e06-f9d5-495e-b536-d9bb8cfbdb56)
 
 
